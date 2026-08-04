@@ -23,7 +23,7 @@ They aren't throwaway one-liners. The prompts here are pulled from real, working
 ## What's inside
 
 - **Full prompts, not fragments.** Each file gives you the complete prompt plus the context needed to get a good result.
-- **Reproducible.** Where a prompt produced a specific artifact (a video, a layout), the exact settings are documented so you get the same output.
+- **Reproducible.** Where a prompt produced a specific artifact (a video, a layout), the exact settings are documented so you can reproduce the result.
 - **Copy-paste ready.** Grab a prompt, drop it into your AI tool of choice, and adjust the details to fit your project.
 
 ## How the prompts are organized
